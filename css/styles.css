@@ -101,6 +101,8 @@ button {
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 	position: relative;
+	transition-duration: 250ms;
+	transform-style: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-nav-list-item-link:hover,
@@ -150,6 +152,8 @@ button {
 	line-height: 150%;
 	letter-spacing: 0.02em;
 	color: #434455;
+	transition-duration: 250ms;
+	transform-style: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-address-list-item-link:hover,
@@ -205,6 +209,8 @@ button {
 	border: none;
 	min-width: 169px;
 	height: 56px;
+	transition-duration: 250ms;
+	transform-style: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .banner-btn:hover,
