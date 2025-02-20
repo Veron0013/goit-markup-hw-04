@@ -1,0 +1,1 @@
+Для першого елементу списку в класі заданий стиль border-radius: 0px 0px 4px 4px; для визначення заокруглень внизу блока (можна використовувати border-top-left-radius: 0px; border-top-right-radius: 0px ; border-top-right-radius: 4px; border-bottom-left-radius:4px;)
